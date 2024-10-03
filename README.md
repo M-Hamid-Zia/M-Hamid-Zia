@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M-Hamid-Zia.
+- 👋 Hi, I’m @Muhammad-Zia.
 - 👀 I’m interested in coding, programming and problem solving.
 - 🌱 I’m currently learning web development, digital marketing and seo.
 - 💞️ I’m looking to collaborate on digital marketing and web development.
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-M-Hamid-Zia/M-Hamid-Zia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Muhammad-Zia/is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
